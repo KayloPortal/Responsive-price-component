@@ -1,0 +1,2 @@
+# Responsive-price-component
+&lt;/>
