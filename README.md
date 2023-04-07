@@ -1,2 +1,4 @@
-# Responsive-price-component
-&lt;/>
+# Responsive price component
+- Designed by frontendmentor.io (challenge url : https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub )
+- Developed by Kaylo (url : https://github.com/KayloPortal )
+
